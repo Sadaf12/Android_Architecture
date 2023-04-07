@@ -4,4 +4,10 @@
     <string name="email_hint">Enter your Email ID</string>
     <string name="password_hint">Enter your password</string>
     <string name="button_text">Login</string>
+
+    <string name="add_flower">Add Flower</string>
+    <string name="flower_description_edit_text">Flower Description</string>
+    <string name="flower_name_edit_text">Flower Name</string>
+    <string name="done_button_text">Done</string>
+
 </resources>
